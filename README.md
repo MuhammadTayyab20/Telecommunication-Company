@@ -18,7 +18,6 @@
 
 This project redesigns a telecommunication company's outdated, flat network into a **modern, secure, and scalable enterprise infrastructure**, simulated in **Cisco Packet Tracer**. It uses a **two-tier hierarchical design** and segments traffic into **data, wireless, and voice** services — with centralized management, dynamic routing, a DMZ, and a hardened **Cisco ASA firewall** perimeter.
 
-> 🎓 **Course:** System & Network Security &nbsp;·&nbsp; 🏫 Computer Engineering Dept, Bahria University (Karachi Campus)
 
 ---
 
